@@ -9,4 +9,4 @@ Register securely with encrypted passwords. Create tasks with details like title
 
 Backend: Node.js and Express with MongoDB for database management. Frontend: HTML, CSS, and JavaScript, making the interface user-friendly and responsive." The backend is hosted on render while the frontend is hosted on vercel.
 
-Click on this link to access the website https://3mtt-capstone-project-7soo-f5fdkyd9m-adas-projects-d9484245.vercel.app/
+Click here to access the website https://taskmaster-pi.vercel.app/
